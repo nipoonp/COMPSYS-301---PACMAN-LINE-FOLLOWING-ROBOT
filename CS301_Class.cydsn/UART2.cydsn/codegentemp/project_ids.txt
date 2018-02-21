@@ -1,0 +1,6 @@
+C:\Users\patel\Downloads\New\CS301_Class.cyprj.Archive01\CS301_Class.cydsn\CS301_Class.cyprj|8fc2b08a-2cb7-4bf5-b183-34ff42538994
+F:\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e0cdc9c4-dd91-4bb3-8e81-23d8459c3bae
+F:\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e35ca7f4-e3b6-47b7-b917-5ac69f4f2ec2
+F:\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fae1798e-c8fd-43a7-a7f0-cf19c8674e94
+F:\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ddd33709-2e66-431b-a383-46c6feb73810
+C:\Users\patel\Downloads\New\CS301_Class.cyprj.Archive01\CS301_Class.cydsn\UART2.cydsn\UART2.cyprj|a80c9022-b898-4fee-8c63-fb77c0465fda

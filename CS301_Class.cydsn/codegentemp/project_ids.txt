@@ -1,0 +1,5 @@
+C:\Users\patel\Downloads\V7 - 22 Sep\V5 - 20 Sep\V4 - 17 Sep\CS301_Class.cydsn\CS301_Class.cyprj|e1058013-655f-49da-8eda-f6d55325d0c4
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|24e27739-0325-410e-ade5-5aa8f3917db3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7659ab18-ae1e-4b14-af5d-7add72001068
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|283bed9d-c290-4c45-b6e4-0da16487e57a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a2872815-3268-4f3d-908b-0c8d5d68fb9b
